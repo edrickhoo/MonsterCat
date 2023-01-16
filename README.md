@@ -4,10 +4,10 @@
 
 ### Desktop
 
-![Screenshot](./screenshot/e-commerce-mock-thumbnail.png)
+![Screenshot](./screenshot/monster-cat-thumbnail.png)
 
 ### Mobile
-![Screenshot-Mobile](./screenshot/e-commerce-mock-cart-thumbnail.png)
+![Screenshot-Mobile](./screenshot/monster-cat-mobile-thumbnail.png)
 
 
 ## Deployed Version
