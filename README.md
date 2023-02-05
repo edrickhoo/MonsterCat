@@ -4,15 +4,17 @@
 
 ### Desktop
 
-![Screenshot](./screenshot/e-commerce-mock-thumbnail.png)
+![Screenshot](./screenshot/monster-cat-thumbnail.png)
 
 ### Mobile
-![Screenshot-Mobile](./screenshot/e-commerce-mock-cart-thumbnail.png)
+![Screenshot-Mobile](./screenshot/monster-cat-mobile-thumbnail.png)
 
 
 ## Deployed Version
 
 * [Link]( https://monster-cat.vercel.app/)
+
+* [Link to original website]( https://www.monstercat.com/release/MCLP017)
 
 ## Setup
 
